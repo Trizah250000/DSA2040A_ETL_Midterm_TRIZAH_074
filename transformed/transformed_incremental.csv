@@ -1,0 +1,5 @@
+order_id,customer_name,product,quantity,unit_price,order_date,region,total_price,tier
+101,Alice,Laptop,0.0,900.0,2024-05-09,Central,0.0,Low
+105,Heidi,Tablet,2.0,600.0,2024-05-21,North,1200.0,Medium
+109,Grace,Laptop,2.0,600.0,2024-05-29,Central,1200.0,Medium
+110,Heidi,Phone,0.0,900.0,2024-05-24,,0.0,Low
