@@ -63,4 +63,4 @@ This project demonstrates a full ETL (Extract → Transform → Load) pipeline. 
 ### Transformed Sample Data:
 ![Transformed Sample](screenshots/transformed_sample.png)
 
-> _Note: Upload your screenshot inside a `screenshots/` folder and rename it `transformed_sample.png` to match this path._
+
